@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/jantu__deb" target="blank"><img src="https://img.shields.io/twitter/follow/jantu__deb?logo=twitter&style=for-the-badge" alt="jantu__deb" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media API](https://github.com/JantuDeb/social-api)
-
-- 🌱 I’m currently learning **Redux Toolkit, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jantu.netlify.app/](https://jantu.netlify.app/)
 
-- 💬 Ask me about **React, Node(ExpressJs), HTML, CSS**
+- 💬 Ask me about **React, Node(ExpressJs),TypeScript, Next, HTML, CSS**
 
 - 📫 How to reach me **jantud54@gmail.com**
 
